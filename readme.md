@@ -8,7 +8,7 @@ Requires PIL library - http://www.pythonware.com/products/pil/
  
 		#
 		#  This script will resize all images in a directory to the MAXSIZE setting.
-		#  It will keep the image dimentions porportional to the original image.
+		#  It will keep the image dimensions proportional to the original image.
 		#  Tom Swanson  Esri  4/2/2013
 
 		from PIL import Image #download from here - http://www.pythonware.com/products/pil/
